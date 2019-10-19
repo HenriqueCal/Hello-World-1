@@ -1,3 +1,4 @@
-int main(){
-
+#include <stdio.h>
+int mian(){
+	printf("Hello Horld!");
 }
